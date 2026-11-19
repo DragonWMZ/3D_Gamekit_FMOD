@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{237d2c71-4545-49d0-8308-f5abd7a254ad}">
+		<property name="note">
+			<value>Stuff that is actually gonna be used in the project. I.E: no placeholders</value>
+		</property>
+		<property name="assetPath">
+			<value>RelevantStuff/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{318fc3fd-7d05-4a34-8c96-95a7838be60a}</destination>
+		</relationship>
+	</object>
+</objects>

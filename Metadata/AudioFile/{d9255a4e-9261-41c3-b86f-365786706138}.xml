@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{d9255a4e-9261-41c3-b86f-365786706138}">
+		<property name="assetPath">
+			<value>RelevantStuff/AmbAcidLoop.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>28</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{318fc3fd-7d05-4a34-8c96-95a7838be60a}</destination>
+		</relationship>
+	</object>
+</objects>
